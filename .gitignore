@@ -1,0 +1,4 @@
+# Ignorar todos los archivos de video mp4 y webm
+*.mp4
+*.webm
+videos/
